@@ -1,6 +1,8 @@
 # ros_manipulator_moveit
 
-## ros_manipulator_project -> moveit
+![ros_manipulator_moveit](./image/result.png)
+
+## ros_manipulator_project의 moveit 버전
 
 ### Run project
 ~~~
