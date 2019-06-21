@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ros_manipulator_project
+    relative_path: urdf/manipulator_v3.urdf
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/ros_mani.srdf
+  CONFIG:
+    author_name: eungi
+    author_email: jeg1221@naver.com
+    generated_timestamp: 1561111081
